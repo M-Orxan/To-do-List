@@ -1,0 +1,79 @@
+﻿@model List<ToDoList.Models.Task>
+<div class="pd-ltr-20 xs-pd-20-10">
+    <div class="min-height-200px">
+
+        <!-- basic table  Start -->
+        <div class="pd-20 card-box mb-30">
+            <div class="clearfix mb-20">
+                <div>
+
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h4 class="card-title text-blue h4">My to do list</h4>
+                        <a asp-action="Create" class="btn btn-primary">Create a new task</a>
+
+                    </div>
+
+
+                </div>
+
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+
+                        <th scope="col">Title</th>
+                        <th scope="col">Created</th>
+                        <th scope="col">Deadline</th>
+                        <th scope="col">Status</th>
+                        <th scope="col">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (@ToDoList.Models.Task task in Model)
+                    {
+                        <tr>
+
+                            <td>@task.Title</td>
+                            <td>@task.Created.ToShortDateString()</td>
+                            <td>@task.Deadline.ToShortDateString()</td>
+                            <td>
+                                @if (task.InProgress)
+                                {
+                                    <span class="badge badge-primary">InProgress</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-success">Completed</span>
+                                }
+
+                            </td>
+                            <td>
+                                <div class="dropdown">
+                                    <button class="btn btn-white dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    </button>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                        <a asp-route-id="@task.Id" class="dropdown-item" asp-action="Detail">Detail</a>
+                                        <a asp-route-id="@task.Id" class="dropdown-item" asp-action="Update">Update</a>
+                                        <a asp-route-id="@task.Id" class="dropdown-item" asp-action="Delete">Delete</a>
+                                    </div>
+                                </div>
+
+
+                            </td>
+
+                        </tr>
+                    }
+
+
+                </tbody>
+            </table>
+
+        </div>
+        <!-- basic table  End -->
+
+
+
+    </div>
+
+</div>
+

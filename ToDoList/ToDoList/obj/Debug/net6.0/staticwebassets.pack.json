@@ -1,0 +1,757 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ToDoList.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ToDoList.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\dropways.css",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\dropways.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\dropways.eot",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\dropways.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\dropways.svg",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\dropways.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\dropways.ttf",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\dropways.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\dropways.woff",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\dropways.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\foundation-icons.css",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\foundation-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\foundation-icons.eot",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\foundation-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\foundation-icons.svg",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\foundation-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\foundation-icons.ttf",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\foundation-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\foundation-icons.woff",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\foundation-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\ionicons-master\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\ionicons-master\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\ionicons-master\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\ionicons-master\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\vendors\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\banner-img.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\blue-logo.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\blue-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\briefcase.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\briefcase.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\cancel.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\cancel.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\caution-sign.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\caution-sign.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\chat-img1.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\chat-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\chat-img2.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\chat-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\check-mark-green.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\check-mark-green.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\check-mark.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\check-mark.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\chrome.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\chrome.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\coming-soon.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\coming-soon.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\cross.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\demo.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\demo.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\deskapp-logo-white.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\deskapp-logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\deskapp-logo.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\deskapp-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\edge.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\edge.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\firefox.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\firefox.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\forgot-password.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\forgot-password.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\github.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\icon-Cash.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\icon-Cash.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\icon-debit.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\icon-debit.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\icon-online-wallet.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\icon-online-wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\internet-explorer.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\internet-explorer.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\layout\\header-dark.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\layout\\header-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\layout\\header-white.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\layout\\header-white.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\layout\\sidebar-dark.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\layout\\sidebar-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\layout\\sidebar-white.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\layout\\sidebar-white.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\login-img.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\login-img.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\login-page-img.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\login-page-img.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\menu-icon.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\menu-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\modal-img1.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\modal-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\modal-img2.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\modal-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\modal-img3.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\modal-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\new-loader.gif",
+      "PackagePath": "staticwebassets\\vendors\\images\\new-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\opera.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\opera.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\page-icon.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\page-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\person.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\person.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\photo1.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\photo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\photo2.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\photo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\photo3.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\photo4.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\photo5.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\photo5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\photo6.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\photo6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\photo7.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\photo7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\photo8.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\photo8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\photo9.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\photo9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\plyr.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\plyr.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\product-1.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\product-3.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\product-4.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\product-5.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\product-img1.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\product-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\product-img2.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\product-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\product-img3.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\product-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\product-img4.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\product-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\profile-photo.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\profile-photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\register-page-img.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\register-page-img.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\safari.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\safari.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\success.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\success.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\tick.svg",
+      "PackagePath": "staticwebassets\\vendors\\images\\tick.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\upload-file-img.jpg",
+      "PackagePath": "staticwebassets\\vendors\\images\\upload-file-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\images\\wave.png",
+      "PackagePath": "staticwebassets\\vendors\\images\\wave.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\advanced-components.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\advanced-components.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\apexcharts-setting.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\apexcharts-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\calendar-setting.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\calendar-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\colorpicker.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\colorpicker.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\core.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\core.min.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\dashboard.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\dashboard2.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\datatable-setting.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\datatable-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\highchart-setting.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\highchart-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\jvectormap-setting.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\jvectormap-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\knob-chart-setting.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\knob-chart-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\layout-settings.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\layout-settings.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\process.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\process.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\range-slider-setting.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\range-slider-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\script.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\script.min.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\script.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\scripts\\steps-setting.js",
+      "PackagePath": "staticwebassets\\vendors\\scripts\\steps-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\styles\\core.css",
+      "PackagePath": "staticwebassets\\vendors\\styles\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\styles\\core.min.css",
+      "PackagePath": "staticwebassets\\vendors\\styles\\core.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\styles\\icon-font.css",
+      "PackagePath": "staticwebassets\\vendors\\styles\\icon-font.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\styles\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\vendors\\styles\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\styles\\style.css",
+      "PackagePath": "staticwebassets\\vendors\\styles\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\styles\\style.min.css",
+      "PackagePath": "staticwebassets\\vendors\\styles\\style.min.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ToDoList.props",
+      "PackagePath": "build\\ToDoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ToDoList.props",
+      "PackagePath": "buildMultiTargeting\\ToDoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ToDoList.props",
+      "PackagePath": "buildTransitive\\ToDoList.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
