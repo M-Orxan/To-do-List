@@ -16,9 +16,14 @@ namespace ToDoList.Controllers
         }
 
         //Index
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int currentPage=1)
         {
-            List<Models.Task> tasks = await _db.Tasks.Where(x => x.IsDeactive == false).ToListAsync();
+            ViewBag.CurrentPage = currentPage;
+            
+            int taskPerPage = 5;
+            int taskCount=await _db.Tasks.Where(x=>x.IsDeactive==false).CountAsync();
+            ViewBag.PageCount = Math.Ceiling((decimal)taskCount / taskPerPage);
+            List<Models.Task> tasks = await _db.Tasks.Where(x => x.IsDeactive == false).Skip((currentPage-1)*taskPerPage).Take(taskPerPage).ToListAsync();
             return View(tasks);
         }
 
@@ -146,12 +151,14 @@ namespace ToDoList.Controllers
 
 
 
-            if (task.Deadline < DateTime.Now)
+            if (task.Deadline < DateTime.Now && task.InProgress == true)
             {
                 ModelState.AddModelError("Deadline", "Deadline can not be earlier than current time");
                 return View(task);
 
             }
+
+           
 
             if (task.InProgress == false && task.Completed == false)
             {
