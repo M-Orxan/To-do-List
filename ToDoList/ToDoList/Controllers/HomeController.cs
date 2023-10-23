@@ -16,14 +16,14 @@ namespace ToDoList.Controllers
         }
 
         //Index
-        public async Task<IActionResult> Index(int currentPage=1)
+        public async Task<IActionResult> Index(int currentPage = 1)
         {
             ViewBag.CurrentPage = currentPage;
-            
+
             int taskPerPage = 5;
-            int taskCount=await _db.Tasks.Where(x=>x.IsDeactive==false).CountAsync();
+            int taskCount = await _db.Tasks.Where(x => x.IsDeactive == false).CountAsync();
             ViewBag.PageCount = Math.Ceiling((decimal)taskCount / taskPerPage);
-            List<Models.Task> tasks = await _db.Tasks.Where(x => x.IsDeactive == false).Skip((currentPage-1)*taskPerPage).Take(taskPerPage).ToListAsync();
+            List<Models.Task> tasks = await _db.Tasks.Where(x => x.IsDeactive == false).Skip((currentPage - 1) * taskPerPage).Take(taskPerPage).ToListAsync();
             return View(tasks);
         }
 
@@ -158,7 +158,7 @@ namespace ToDoList.Controllers
 
             }
 
-           
+
 
             if (task.InProgress == false && task.Completed == false)
             {
@@ -175,6 +175,16 @@ namespace ToDoList.Controllers
             await _db.SaveChangesAsync();
             return RedirectToAction("Index");
         }
+
+        public async Task<IActionResult> Search(string key)
+        {
+            List<Models.Task> tasks = await _db.Tasks.Where(x=>(x.Title.Contains(key)&&x.IsDeactive==false)).ToListAsync();
+
+
+            return PartialView("_SearchPartial", tasks);
+        }
+
+
 
 
         public IActionResult Error()
