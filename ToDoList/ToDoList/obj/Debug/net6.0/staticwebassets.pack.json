@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\ToDoList.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
       "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
@@ -231,6 +247,362 @@
     {
       "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\scss\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\scss\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\tasks\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\tasks\\prod.js"
     },
     {
       "Id": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\wwwroot\\vendors\\fonts\\FontAwesome.otf",

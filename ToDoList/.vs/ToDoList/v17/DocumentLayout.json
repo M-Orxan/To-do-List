@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|c:\\users\\user\\desktop\\github projects\\to-do-list\\todolist\\todolist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|c:\\users\\user\\desktop\\github projects\\to-do-list\\todolist\\todolist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|c:\\users\\user\\desktop\\github projects\\to-do-list\\todolist\\todolist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|c:\\users\\user\\desktop\\github projects\\to-do-list\\todolist\\todolist\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|c:\\users\\user\\desktop\\github projects\\to-do-list\\todolist\\todolist\\views\\shared\\_searchpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\views\\shared\\_searchpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|c:\\users\\user\\desktop\\github projects\\to-do-list\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|c:\\users\\user\\desktop\\github projects\\to-do-list\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D87AC3E5-AFC2-4022-BE10-0FA7061860F0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ToDoList\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "ToDoList\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:22:21.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ToDoList\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ToDoList\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:19:07.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:31:47.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeToolTip": "ToDoList\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T07:29:56.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAiwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-22T19:40:29.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_SearchPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Views\\Shared\\_SearchPartial.cshtml",
+              "RelativeDocumentMoniker": "ToDoList\\Views\\Shared\\_SearchPartial.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Views\\Shared\\_SearchPartial.cshtml",
+              "RelativeToolTip": "ToDoList\\Views\\Shared\\_SearchPartial.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-22T19:20:21.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDoList\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Github Projects\\To-do-List\\ToDoList\\ToDoList\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ToDoList\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-22T18:59:28.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

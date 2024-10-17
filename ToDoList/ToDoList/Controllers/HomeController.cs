@@ -23,7 +23,7 @@ namespace ToDoList.Controllers
             int taskPerPage = 5;
             int taskCount = await _db.Tasks.Where(x => x.IsDeactive == false).CountAsync();
             ViewBag.PageCount = Math.Ceiling((decimal)taskCount / taskPerPage);
-            List<Models.Task> tasks = await _db.Tasks.Where(x => x.IsDeactive == false).Skip((currentPage - 1) * taskPerPage).Take(taskPerPage).ToListAsync();
+            List<Models.Task> tasks = await _db.Tasks.Where(x => x.IsDeactive == false).OrderByDescending(t=>t.Id).Skip((currentPage - 1) * taskPerPage).Take(taskPerPage).ToListAsync();
             return View(tasks);
         }
 
